@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arka009chakra&label=Profile%20views&color=0e75b6&style=flat" alt="arka009chakra" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning OPCENTER MES || OPCENTER RDL<br><br>👯 I’m looking to collaborate on Mearn Stack Development<br><br>💬 Ask me about ReactJS || NodeJS || ExpressJS || Mongodb || SQL || Opcenter RDL || Opcenter MES<br><br>📫 How to reach me arka9791chakraborty@gmail.com<br><br>⚡ Fun fact "It’s all 0’s and 1’s"
+🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning OPCENTER MES || OPCENTER RDL<br><br>👯 I’m looking to collaborate on Mern Stack Development<br><br>💬 Ask me about ReactJS || NodeJS || ExpressJS || Mongodb || SQL || Opcenter RDL || Opcenter MES<br><br>📫 How to reach me arka9791chakraborty@gmail.com<br><br>⚡ Fun fact "It’s all 0’s and 1’s"
 
 
 ## 🌐 Socials:
