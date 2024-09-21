@@ -1,11 +1,11 @@
 <p align ="center"><img src="https://ci6.googleusercontent.com/proxy/6yONIoTPFRxmcUzOEqGb9rYBV6ot9p2T-PEXVCf8vS8efQLz1Q0yo4Sa6U0lrDqnZIcEDq445nqEDoRcH9cyZobRVuLb3o8oyyjpFXZX1jC-Y1aa-YGJ3kxAAgGaX-S0gw4Tt_8xte_q=s0-d-e1-ft#https://www.lambdatest.com/blog/wp-content/uploads/2021/02/ezgif.com-gif-maker-1-1.gif" alt="coding" /></p>
 <h1 align="center">Hi 👋, I'm Arka Chakraborty</h1>
-<h3 align="center">A Passionate Full Stack developer From India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arka009chakra&label=Profile%20views&color=0e75b6&style=flat" alt="arka009chakra" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning OPCENTER MES || OPCENTER RDL<br><br>👯 I’m looking to collaborate on Mern Stack Development<br><br>💬 Ask me about ReactJS || NodeJS || ExpressJS || Mongodb || SQL || Opcenter RDL || Opcenter MES<br><br>📫 How to reach me arka9791chakraborty@gmail.com<br><br>⚡ Fun fact "It’s all 0’s and 1’s"
+🔭 I’m currently working on Full Stack Development<br><br>🌱 I’m currently learning OPCENTER MES || OPCENTER RDL<br><br>👯 I’m looking to collaborate on MERN Stack Development<br><br>💬 Ask me about ReactJS || NodeJS || ExpressJS || Mongodb || SQL || Opcenter RDL || Opcenter MES<br><br>📫 How to reach me arka9791chakraborty@gmail.com<br><br>⚡ Fun fact "It’s all 0’s and 1’s"
 
 
 ## 🌐 Socials:
