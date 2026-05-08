@@ -9,12 +9,11 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Development<br><br>
-🌱 Immediate Joiner | Full Stack MERN Developer | React.js, Node.js, Express.js | MongoDB, MSSQL | Redis, Socket.IO | Redux | REST APIs | Ollama (AI)<br><br>
-👯 I’m looking to collaborate on MERN Stack Development<br><br>
-💬 Ask me about ReactJS || NodeJS || ExpressJS || MongoDB || SQL || Opcenter RDL || Opcenter MES<br><br>
-📫 How to reach me: arka5567developerchakrabortychakraborty@gmail.com<br><br>
-⚡ Fun fact: "It’s all 0’s and 1’s"
+🚀 Results-driven MERN Stack Developer specializing in building secure, scalable, and high-performance enterprise applications for defense and industrial systems.<br><br>
+💡 Experienced in React.js, Node.js, REST APIs, and Redis optimization, with hands-on work in AI-powered document intelligence systems.<br><br>
+🔐 Strong expertise in backend architecture, RBAC implementation, and performance tuning for mission-critical applications.<br><br>
+⚡ Immediate Joiner | Passionate about solving complex problems and delivering efficient, production-ready solutions.<br><br>
+📫 Reach me at: arka5567developerchakrabortychakraborty@gmail.com
 
 ---
 
@@ -72,12 +71,17 @@ Full-Stack Development, Backend Optimization, AI Integration, Technical Document
 ---
 
 # 📊 GitHub Stats:
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arka009chakra&show_icons=true&locale=en&layout=compact" alt="arka009chakra" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arka009chakra&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arka009chakra&" alt="arka009chakra" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arka009chakra&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arka009chakra&theme=react-dark&hide_border=true" />
 </p>
 
 ---
