@@ -13,7 +13,7 @@
 💡 Experienced in React.js, Node.js, REST APIs, and Redis optimization, with hands-on work in AI-powered document intelligence systems.<br><br>
 🔐 Strong expertise in backend architecture, RBAC implementation, and performance tuning for mission-critical applications.<br><br>
 ⚡ Immediate Joiner | Passionate about solving complex problems and delivering efficient, production-ready solutions.<br><br>
-📫 Reach me at: arka5567developerchakrabortychakraborty@gmail.com
+📫 Reach me at: arka5567developerchakraborty@gmail.com
 
 ---
 
